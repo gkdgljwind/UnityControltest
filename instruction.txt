@@ -1,0 +1,6 @@
+walk door002
+Open_Door
+walk food053
+Pick_Fwd
+walk sofa036
+walk desk080
